@@ -4,5 +4,5 @@
 
 
 ### Skills 🛠️
-- **Languages**:&nbsp;                         Oracle, Mysql, Sql Server, Postgres and Mongodb
+- **Databases**:&nbsp;                         Oracle, Mysql, Sql Server, Postgres and Mongodb
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
