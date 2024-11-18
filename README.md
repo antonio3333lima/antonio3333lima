@@ -5,7 +5,7 @@
 
 ### Skills 🛠️
 - **Databases**:&nbsp;                         Oracle, Mysql, Sql Server, Postgres and Mongodb
-- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
+- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Terraform
 
 <body>
     <div class="container">
